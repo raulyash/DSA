@@ -2,6 +2,7 @@ package com.dsa.twopointers;
 
 import java.util.Arrays;
 
+/* Sorted square using an extra space */
 public class SortedSquareExtraSpace {
 
     public static int[] sortedSquare(int[] arr) {
